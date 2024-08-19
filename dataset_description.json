@@ -1,19 +1,23 @@
 {
-  "Name": "Cerebrovascular Reactivity Normative Dataset",
-  "BIDSVersion": "1.2.0",
-  "License": "",
-  "Authors": [
-    "Rovai, Antonin",
-    "Lolli, Valentina",
-    "De Tiège, Xavier",
-    "Trotta, Nicola",
-    "Goldman, Serge"
-  ],
-  "Acknowledgments": "",
-  "HowToAcknowledge": "",
-  "Funding": ["Fond Erasme (Brussels, Belgium)", "Association Vinçotte Nuclear (AVN research convention)", "FRS-FNRS (Brussels, Belgium)"],
-  "ReferencesAndLinks": [
-    ""
-  ],
-  "DatasetDOI": ""
+    "Name": "Cerebrovascular Reactivity Normative Dataset",
+    "BIDSVersion": "1.2.0",
+    "License": "CC0",
+    "Authors": [
+        "Rovai, Antonin",
+        "Lolli, Valentina",
+        "De Tiège, Xavier",
+        "Trotta, Nicola",
+        "Goldman, Serge"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "Fond Erasme (Brussels, Belgium)",
+        "Association Vinçotte Nuclear (AVN research convention)",
+        "FRS-FNRS (Brussels, Belgium)"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005418.v1.0.0"
 }

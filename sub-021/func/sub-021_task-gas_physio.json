@@ -1,0 +1,14 @@
+{
+    "SamplingFrequency": 100,
+    "StartTime": 0,
+    "Columns": [
+        "rawflow",
+        "co2"
+    ],
+    "rawflow": {
+        "Units": "m3/s"
+    },
+    "co2": {
+        "Units": "%"
+    }
+}

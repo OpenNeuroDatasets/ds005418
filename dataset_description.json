@@ -1,0 +1,19 @@
+{
+  "Name": "Cerebrovascular Reactivity Normative Dataset",
+  "BIDSVersion": "1.2.0",
+  "License": "",
+  "Authors": [
+    "Rovai, Antonin",
+    "Lolli, Valentina",
+    "De Tiège, Xavier",
+    "Trotta, Nicola",
+    "Goldman, Serge"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "",
+  "Funding": ["Fond Erasme (Brussels, Belgium)", "Association Vinçotte Nuclear (AVN research convention)", "FRS-FNRS (Brussels, Belgium)"],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": ""
+}

@@ -10,6 +10,6 @@ A subset of this dataset is also a subset of https://openneuro.org/datasets/ds00
 
 ## Rawdata
 
-    - Anatomical data: a standard T1w image was acquired for each subject.
-    - Functional data: each subject underwent an fMRI scan with blocs of CO2 inhalation challenges as well as a six-minutes resting state session.
-    - Physiological data: breath CO2 was recorded using a capnograph during the fMRI acquisition for the CO2 inhalation task.
+- Anatomical data: a standard T1w image was acquired for each subject.
+- Functional data: each subject underwent an fMRI scan with blocs of CO2 inhalation challenges as well as a six-minutes resting state session.
+- Physiological data: breath CO2 was recorded using a capnograph during the fMRI acquisition for the CO2 inhalation task.

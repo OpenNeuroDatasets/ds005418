@@ -13,3 +13,10 @@ A subset of this dataset is also a subset of https://openneuro.org/datasets/ds00
 - Anatomical data: a standard T1w image was acquired for each subject.
 - Functional data: each subject underwent an fMRI scan with blocs of CO2 inhalation challenges as well as a six-minutes resting state session.
 - Physiological data: breath CO2 was recorded using a capnograph during the fMRI acquisition for the CO2 inhalation task.
+
+## Derivatives
+
+- Directory fmriprep_v21.0.4, fMRIPrep version 21.0.4, using the --use-aroma option.
+- Directory cvrmap_2.0.25: CVRmap v2.0.25 with default parameters.  Uses only the CO2 inhalation challenge data (fMRI and physiological monitoring).
+- Directory cvrmap_2.0.25_rs_gs: CVRmap v2.0.25 with the options '--task restingstate' and '--globalsignal'. Uses only the resting-state data. Compute relative CVR by using global signal as a surrogate for end-tidal CO2.
+- Directory cvrmap_2.0.25_rs_vs: CVRmap v2.0.25 with the options '--task restingstate' and '--vesselsignal'. Uses only the resting-state data. Compute relative CVR by using vessel signal as a surrogate for end-tidal CO2.
